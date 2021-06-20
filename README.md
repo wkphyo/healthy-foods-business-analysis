@@ -1,2 +1,2 @@
 # healthy-foods-business-analysis
-Analysis of potential expansion of healthy foods operations by a multinational company
+Done for a final project during my first semester of my MS Applied Data Science program. Analysis of potential expansion of healthy foods operations by a multinational company. Task 1 involves scraping tweet data with text relating to fruits, vegetables, salads, and lettuce between December 8-10, 2020, and quantifying the sentiments associated with each tweet. Task 2 involves cleaning/preparing data regarding the sales of the company to be used for analysis in combination with the data synthesized from Task 1.
